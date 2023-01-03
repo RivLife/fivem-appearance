@@ -53,6 +53,10 @@ files {
   "web/dist/assets/*.js"
 }
 
+provide {
+  'qb-clothing',
+}
+
 ui_page "web/dist/index.html"
 
 dependencies {
